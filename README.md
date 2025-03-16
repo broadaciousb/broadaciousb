@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I have been learning to code the past 3 years in my spare time after performing as a full-time project manager for a structural engineering firm. My goal is to transition careers into web or software development because I enjoy it so much more than civil engineering and wish to expand my software skills as much as possible.
+I have been learning to code the past 3 years in my spare time while performing as a full-time project manager for a structural engineering firm. My goal is to transition careers into web or software development because I enjoy it so much more than civil engineering and wish to expand my software skills as much as possible.
 
 * 🌍  I'm based in Melbourne, FL
 * 🖥️  See my portfolio at [this webpage.](http://broadaciousb.github.io/fes-advanced-portfolio/)
