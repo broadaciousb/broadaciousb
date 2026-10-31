@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I have been learning to code the past 4 years in my spare time while performing as a full-time project manager for a structural engineering firm. My goal is to transition careers into web or software development because I enjoy it so much more than civil engineering and wish to expand my software skills as much as possible.
+Volunteering as a front end developer for autoshops.com for over a year, while performing as a project manager for an engineering firm in a different industry. Along with many aspects of web development my skillset includes client consultation and project management in a time sensitive environment.
 
 * 🌍  I'm based in Melbourne, FL
 * 🖥️  See my portfolio at [this webpage.](https://www.butlerdev.com/)
