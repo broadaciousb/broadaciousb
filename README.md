@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-Volunteering as a front end developer for autoshops.com for over a year, while performing as a project manager for an engineering firm in a different industry. Along with many aspects of web development my skillset includes client consultation and project management in a time sensitive environment.
+Volunteering as a front end developer for autoshops.com for over a year, while performing as a project manager for an engineering firm. Along with many aspects of web development my skillset includes client consultation and project management in a time sensitive environment.
 
 * 🌍  I'm based in Melbourne, FL
 * 🖥️  See my portfolio at [this webpage.](https://www.butlerdev.com/)
